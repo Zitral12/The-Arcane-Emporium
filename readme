@@ -29,6 +29,7 @@ Shadow:
 
 Currency: Gems or Crowns
 
+Product:
 20-item starter list
 -Wearables: pointed hats, robes, boots, rings, amulets
 -Weapons: wands, staffs, daggers, spell books, crystal orbs
@@ -64,6 +65,7 @@ Consumables
 19. Spell Scroll (random school): 90
 20. Treasure Map: 150
 
+Website Design:
 Storefront: shopkeeper greeting plus “Featured Spells”
 Login/Registration: “Enroll at the Academy” with a character creator
 User Profile: wizard card with school, level, and inventory
