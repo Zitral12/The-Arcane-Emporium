@@ -4,6 +4,28 @@ A magic academy marketplace where students buy and sell spell gear.
 
 Look: storybook illustrations, deep purple and gold, glowing spell icons, a wizard shopkeeper portrait.
 
+RoleColor	Hex
+Background / navbar	Deep Midnight Purple	
+#2B1B4D
+Accent / buttons / prices	Enchanted Gold	
+#F2B83D
+Cards / panels	Parchment Cream	
+#F6ECD2
+Highlights / hover glow	Arcane Teal	
+#3FD0C9
+
+Bonus: school colors for product categories
+
+Flame: 
+#E4572E
+Frost: 
+#6EC6FF
+Storm: 
+#B58CFF
+Nature: 
+#6BBF59
+Shadow: 
+#4A4458
 
 Currency: Gems or Crowns
 
@@ -19,3 +41,5 @@ User Profile: wizard card with school, level, and inventory
 FAQ: “Ask the Professor” dialogue box
 Navbar: Shop, Sell, Inventory, Quests, Help
 Search: a spellbook search bar with school filters
+
+
